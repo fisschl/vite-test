@@ -20,6 +20,3 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
-
-/src-tauri/target
-/src-tauri/gen
