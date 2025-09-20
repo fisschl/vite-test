@@ -1,7 +1,10 @@
 {
   "name": "aaa",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
   "dependencies": {
     "@vueuse/core": "^13.9.0",
     "element-plus": "^2.11.3",
