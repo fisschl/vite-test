@@ -12,6 +12,8 @@ node_modules
 /dist-ssr
 *.local
 
+.env
+
 # Editor directories and files
 .idea
 .DS_Store
@@ -20,7 +22,6 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
-
 
 # Added by cargo
 
